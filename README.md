@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husseinelmasri
+- 👋 Hi, I’m Hussein Elmasri
 - 👀 I’m interested in web develpoment
 - 🌱 I’m currently learning HTML CSS Javascipt
 - 💞️ I’m looking to collaborate on ...
