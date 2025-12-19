@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hussein Elmasri</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Front-End Web Development**
-
-- 📫 How to reach me **HElmasri88@gmail.com**
+🌱 I’m currently learning **Front-End Web Development**
+📫 How to reach me **HElmasri88@gmail.com**
+💻 My main stack: React.js - Next.js, Supabase, PostgreSQL, and Firebase
+⚡ Always exploring new technologies and pushing the boundaries of what's possible
 
 
 <h3 align="left">Languages and Tools:</h3>
