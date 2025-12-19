@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein Elmasri</h1>
-<h2 align="center">A passionate frontend developer</h2>
+<h2 align="center">I'm a frontend developer with a passion for creating engaging and user-friendly web interfaces/h2>
 
 <h4>🌱 I’m currently learning Front-End Web Development</h4>
 <h4>📫 How to reach me <a href="https://helmasri88@gmail.com">HElmasri88@gmail.com</a></h4>
