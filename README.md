@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hussein Elmasri</h1>
 <h2 align="center">I'm a frontend developer with a passion for creating engaging and user-friendly web interfaces</h2>
 
-<h4>🌱 I’m currently learning Front-End Web Development</h4>
-<h4>📫 How to reach me <a href="https://helmasri88@gmail.com">HElmasri88@gmail.com</a></h4>
-<h4>💻 My main stack:Html ,Css ,Javascript ,Tailwindcss ,React</h4>
-<h4>⚡ Always exploring new technologies and pushing the boundaries of what's possible</h4>
+<p>🌱 I’m currently learning Front-End Web Development</p>
+<p>📫 How to reach me <a href="https://helmasri88@gmail.com">HElmasri88@gmail.com</a></p>
+<p>💻 My main stack:Html ,Css ,Javascript ,Tailwindcss ,React</p>
+<p>⚡ Always exploring new technologies and pushing the boundaries of what's possible</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
