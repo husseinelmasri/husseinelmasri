@@ -3,7 +3,7 @@
 
 <p>🌱 I’m currently learning Front-End Web Development</p>
 <p>📫 How to reach me <a href="https://helmasri88@gmail.com">HElmasri88@gmail.com</a></p>
-<p>💻 My main stack:Html ,Css ,Javascript ,Tailwindcss ,React</p>
+<p>💻 My main stack: Html ,Css ,Javascript ,Tailwindcss ,React</p>
 <p>⚡ Always exploring new technologies and pushing the boundaries of what's possible</p>
 
 
